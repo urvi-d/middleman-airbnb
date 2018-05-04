@@ -1,0 +1,18 @@
+paris:
+  country: France
+  home: Sebastien's home
+  details: Charming room in Montmartre
+  rating: 4
+  url: https://kitt.lewagon.com/placeholder/cities/paris
+shanghai:
+  county: China
+  home: Boris' home
+  details: Small flat in shanghai
+  rating: 5
+  url: https://kitt.lewagon.com/placeholder/cities/shanghai
+london:
+  county: UK
+  home: Romain's home
+  details: Nice flat in Soho
+  rating: 3
+  url: https://kitt.lewagon.com/placeholder/cities/london
